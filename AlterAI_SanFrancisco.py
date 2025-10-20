@@ -9,7 +9,7 @@ I am essentially rewriting and polishing a program I already made for ISEF Koši
 from ollama import Client
 import json
 import os
-import customtkinter as tk
+import customtkinter as ctk
 
 # Basic Setup
 client = Client(host='http://localhost:11434')
@@ -18,4 +18,10 @@ MODEL_NAME = 'gemma3:4b' # The base Language model to be used
 MEMORY_FILE = 'memory_ISEF.json' # Where to store memory
 SETTINGS_FILE = "settings.json" # Where to store settings
 
-# Test line
+
+# UI 
+app = ctk.CTk()
+app.title("Alter")
+app.geometry("800x700") # Size of the created Window
+
+app.mainloop()
