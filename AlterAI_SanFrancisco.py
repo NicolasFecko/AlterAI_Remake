@@ -17,3 +17,5 @@ MODEL_NAME = 'gemma3:4b' # The base Language model to be used
 # Model gemma3:4b Multilingual model of 4 Billion parameters. Speaks over 70 languages
 MEMORY_FILE = 'memory_ISEF.json' # Where to store memory
 SETTINGS_FILE = "settings.json" # Where to store settings
+
+# Test line
