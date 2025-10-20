@@ -1,0 +1,4 @@
+20th of October 2025
+    - Took the old Program and started imporovements.
+    - Replaced some of the internal databases with external json files
+    Total time spent up to this point: 1h 30m 
