@@ -1,0 +1,90 @@
+{
+    "English": ["Hello, I am Alter, your new companion ready to chat and explore alongside you."],
+    "French": ["Bonjour, je suis Alter, ton nouveau compagnon prêt à discuter et à explorer avec toi."],
+    "Dutch": ["Hallo, ik ben Alter, je nieuwe metgezel klaar om met je te praten en samen te ontdekken."],
+    "Irish": ["Dia dhuit, is mise Alter, do chomhghleacaí nua réidh le comhrá agus iniúchadh a dhéanamh leat."],
+    "Welsh": ["Helo, fi yw Alter, dy gydymaith newydd, yn barod i sgwrsio ac archwilio gyda thi."],
+
+    "German": ["Hallo, ich bin Alter, dein neuer Begleiter, bereit, mit dir zu plaudern und die Welt zu erkunden."],
+    "Polish": ["Cześć, jestem Alter, twój nowy towarzysz gotowy do rozmowy i wspólnego odkrywania świata."],
+    "Czech": ["Ahoj, jsem Alter, tvůj nový společník připravený komunikovat a objevovat svět s tebou."],
+    "Slovak": ["Ahoj, som Alter, tvoj nový spoločník pripravený na rozhovor a objavovanie sveta spolu s tebou."],
+    "Hungarian": ["Szia, Alter vagyok, az új társad, készen állok beszélgetni és felfedezni veled."] ,
+
+    "Italian": ["Ciao, sono Alter, il tuo nuovo compagno pronto a chiacchierare ed esplorare insieme a te."],
+    "Spanish": ["¡Hola! Soy Alter, tu nuevo compañero listo para charlar y explorar junto a ti."],
+    "Portuguese": ["Olá, eu sou o Alter, seu novo companheiro pronto para conversar e explorar ao seu lado."],
+    "Maltese": ["Malta"],
+
+    "Danish": ["Hej, jeg er Alter, din nye følgesvend, klar til at chatte og udforske sammen med dig."],
+    "Finnish": ["Hei, olen Alter, uusi kumppanisi, valmis juttelemaan ja tutkimaan kanssasi."],
+    "Swedish": ["Hej, jag är Alter, din nya följeslagare redo att chatta och utforska tillsammans med dig."],
+    "Norwegian": ["Hei, jeg er Alter, din nye følgesvenn, klar for å chatte og utforske sammen med deg."],
+    "Icelandic": ["Halló, ég er Alter, nýji félagi þinn tilbúinn til að spjalla og kanna heiminn með þér."],
+
+  
+    "Romanian": ["Salut, sunt Alter, noul tău companion gata să converseze și să exploreze alături de tine."],
+    "Greek": ["Γεια σου, είμαι ο Alter, ο νέος σου σύντροφος έτοιμος να συνομιλήσουμε και να εξερευνήσουμε μαζί."],
+    "Croatian": ["Bok, ja sam Alter, tvoj novi suputnik spreman za razgovor i istraživanje zajedno s tobom."],
+    "Bosnian": ["Zdravo, ja sam Alter, tvoj novi saputnik spreman za razgovor i istraživanje s tobom."],
+    "Serbian": ["Zdravo, ja sam Alter, tvoj novi saputnik spreman za razgovor i istraživanje zajedno sa tobom."],
+    "Macedonian": ["Здраво, јас сум Alter, твојот нов придружник подготвен за разговор и истражување со тебе."],
+    "Albanian": ["Përshëndetje, unë jam Alter, shoku yt i ri gati për të biseduar dhe eksploruar së bashku."],
+    "Bulgarian": ["Здравей, аз съм Alter, твоят нов спътник, готов да разговаряме и да изследваме заедно."],
+    "Slovenian": ["Pozdravljen, sem Alter, tvoj novi spremljevalec, pripravljen za pogovor in raziskovanje skupaj s tabo."],
+
+ 
+    "Russian": ["Привет, я Альтер, твой новый спутник, готовый общаться и исследовать мир вместе с тобой."],
+    "Ukrainian": ["Привіт, я Alter, твій новий супутник, готовий спілкуватися та досліджувати світ разом з тобою."],
+    "Belarusian": ["Прывітанне, я Alter, твой новы спадарожнік, гатовы размаўляць і даследаваць свет разам з табой."],
+    "Azerbaijani": ["Salam, mən Alter, sənin yeni yoldaşınam, söhbət etməyə və birlikdə araşdırmağa hazıram."],
+    "Armenian": ["Բարեւ, ես Alter եմ, քո նոր ընկերն եմ, պատրաստ զրուցել եւ ուսումնասիրել միասին։"],
+    "Georgian": ["გამარჯობა, მე Alter ვარ, შენი ახალი თანამგზავრი, მზად საუბრისთვის და ერთად კვლევისათვის."],
+
+    "Estonian": ["Tere, ma olen Alter, sinu uus kaaslane, valmis vestlema ja koos avastama."],
+    "Latvian": ["Sveiki, es esmu Alter, tavs jaunais biedrs, gatavs sarunām un kopīgām izpētēm."],
+    "Lithuanian": ["Sveiki, aš esu Alter, tavo naujas draugas, pasirengęs kalbėtis ir kartu tyrinėti pasaulį."],
+
+    
+    "Turkish": ["Merhaba, ben Alter, yeni arkadaşın, sohbet etmeye ve birlikte keşfetmeye hazırım."],
+
+    "Chinese": ["你好,我是Alter,你的新伙伴,随时准备与你聊天和一起探索。"],
+    "Japanese": ["こんにちは、私はAlterです。あなたの新しい仲間として、一緒に話したり探検したりする準備ができています。"],
+    "Korean": ["안녕하세요, 저는 Alter입니다. 당신의 새로운 친구로서 대화하고 함께 탐험할 준비가 되어 있습니다."],
+    "Mongolian": ["Сайн байна уу, би Alter байна, таны шинэ анд бэлэн, ярилцаж, хамтдаа судлахад бэлэн байна."],
+
+    "Hindi": ["नमस्ते, मैं Alter हूँ, आपका नया साथी, बातचीत और खोज के लिए तैयार।"],
+
+   
+    "Vietnamese": ["Xin chào, tôi là Alter, người bạn đồng hành mới của bạn, sẵn sàng trò chuyện và khám phá cùng bạn."],
+    "Thai": ["สวัสดี, ฉันคือ Alter เพื่อนใหม่ของคุณ พร้อมที่จะพูดคุยและสำรวจไปด้วยกัน."],
+    "Indonesian": ["Halo, saya Alter, teman baru Anda yang siap mengobrol dan menjelajah bersama Anda."],
+
+ 
+    "Arabic": ["مرحباً، أنا Alter، رفيقك الجديد جاهز للدردشة والاستكشاف معك."],
+    "Persian (Farsi)": ["سلام، من Alter هستم، همراه جدید شما آماده گفتگو و کاوش با شما."],
+    "Hebrew": ["שלום, אני Alter, החבר החדש שלך מוכן לשוחח ולחקור יחד איתך."],
+
+   
+    "Kazakh": ["Сәлеметсіз бе, мен Alter, сіздің жаңа серіктесіңізбін, сөйлесуге және бірге зерттеуге дайынмын."],
+    "Kyrgyz": ["Салам, мен Alter, сенин жаңы шеригиңмин, сүйлөшүүгө жана бирге издөөгө даярмын."],
+
+
+    "Afrikaans": ["Hallo, ek is Alter, jou nuwe metgesel, gereed om te gesels en saam te ontdek."],
+    "Swahili": ["Hujambo, mimi ni Alter, rafiki yako mpya tayari kuzungumza na kuchunguza pamoja nawe."],
+    "Somali": ["Salaan, waxaan ahay Alter, saaxiibkaaga cusub oo diyaar u ah inuu kula sheekaysto oo uu wax wada baadho."],
+
+    "Catalan": ["Hola, sóc l'Alter, el teu nou company llest per xatejar i explorar al teu costat."],
+    "Galician": ["Ola, son Alter, o teu novo compañeiro listo para charlar e explorar contigo."],
+    "Basque": ["Kaixo, ni Alter naiz, zure konpainia berria, prest elkarrizketan eta esplorazioan parte hartzeko."],
+    "Breton": ["Demat, me 'zo Alter, da vignoner nevez prest da ginnig komz ha dizoleiñ ganeoc'h."],
+    "Abkhaz": ["Салам, са Alter, абаза цыра ахыԥхьаӡараны рыхьаӡара иазышәо иҭахоит."],
+    "Tamil": ["வணக்கம், நான் அல்டர், உங்கள் புதிய தோழர், உரையாடவும், ஆராயவும் தயாராக உள்ளது."],
+    "Maori": ["Kia ora, ko Alter ahau, tō hoa hou, e rite ana ki te kōrero me te tūhura tahi."],
+    "Khmer": ["សួស្តី, ខ្ញុំឈ្មោះ Alter, មិត្តថ្មីរបស់អ្នក ដែលរួចរាល់សម្រាប់ការជជែក និងស្វែងរកជាមួយអ្នក។"],
+    "Telugu": ["హలో, నేను Alter, మీ కొత్త తోటి, మీతో చాటింగ్ మరియు అన్వేషణ చేయడానికి సిద్ధంగా ఉన్నాను."],
+    "Urdu": ["ہیلو، میں Alter ہوں، آپ کا نیا ساتھی، بات چیت اور دریافت کے لیے تیار۔"], 
+    "Nepali": ["नमस्ते, म Alter हुँ, तपाईंको नयाँ साथी, कुरा गर्न र अन्वेषण गर्न तयार।"],
+    "Ainu": ["イラㇰ, アルター カㇱケ, アㇱル ネ サㇷ゚ イㇱケ レㇷ゚ カㇱケ."], 
+    "Adygean": ["Салам, са Alter, щыжьыфэ нэмыкъо, ыщыщхьэу къэралъэу и къэралъэу фэдэрым."]
+}
