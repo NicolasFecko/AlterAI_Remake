@@ -170,13 +170,13 @@ else:
 if "tts_enabled" not in settings:
     settings["tts_enabled"] = True
 
-tts_enabled = settings["tts_enabled"]  # Now this is defined
+tts_enabled = settings["tts_enabled"]
 
 def update_language(selected):
     settings["language"] = selected
     with open(SETTINGS_FILE, "w") as f:
         json.dump(settings, f, indent=2)
-    language_var.set(selected)  # <- this must affect the same global variable
+    language_var.set(selected)
     # Update voice
     lang_code = LANGUAGES.get(selected, "en")
     set_tts_voice(lang_code)
@@ -185,9 +185,9 @@ def set_appearance_mode(mode):
     settings["appearance_mode"] = mode
     ctk.set_appearance_mode(mode)
     if mode == "Light":
-        update_color_setting("user_text", "#000000")  # black
+        update_color_setting("user_text", "#000000")  
     else:
-        update_color_setting("user_text", "#FFFFFF")  # white
+        update_color_setting("user_text", "#FFFFFF")  
 
 # --- Sanitization ---
 # Removes double spaces, trims, and strips weird symbols that could confuse the model
@@ -340,7 +340,7 @@ def send_message(event=None):
         })
         save_memory()
 
-        speak_message(reply) # Talk, like voice.
+        speak_message(reply) # Talk... like voice.
 
     threading.Thread(target=run).start()
 
@@ -1020,7 +1020,7 @@ if not memory:
     memory.append({
         "message_number": 1,
         "role": "conversation",
-        "user": "",  # no user message yet
+        "user": "",  # no user message yet, duh
         "assistant": greeting,
         "timestamp": datetime.now().isoformat()
     })
